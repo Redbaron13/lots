@@ -1,0 +1,34 @@
+# requirements.txt
+
+# Flask web framework
+Flask==2.0.1
+
+# Requests library for making HTTP requests
+requests==2.25.1
+
+# Pandas for data manipulation and analysis
+pandas==1.3.0
+
+# NumPy for numerical operations
+numpy==1.21.0
+
+# SQLAlchemy for database interactions
+SQLAlchemy==1.4.22
+
+# HTTPX for asynchronous HTTP requests
+httpx==0.21.1
+
+# Pip for package management
+pip==21.1.3
+
+# JSON library for parsing JSON data
+json==2.0.9
+
+# SQLite3 for database management
+sqlite3==3.36.0
+
+# Selenium for browser automation
+selenium==3.141.0
+
+# Pylance for Python language support in VS Code
+pylance==2021.8.2
